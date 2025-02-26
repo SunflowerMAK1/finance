@@ -1,0 +1,77 @@
+{
+  "name": "Иван Иванов",
+  "accounts": [
+    {
+      "name": "На жизнь",
+      "system": "MasterCard Mass",
+      "number": "8888 0000 8888 0000",
+      "type": "дебетовая",
+      "balance": 10149,
+      "validity period": "09/2024"
+    },
+    {
+      "name": "Сбережения",
+      "system": "MIR Classic",
+      "number": "7777 0000 7777 0000",
+      "type": "дебетовая",
+      "balance": 33570,
+      "validity period": "11/2023"
+    }
+  ],
+  "transactions": [
+    {
+      "account": "8888 0000 8888 0000",
+      "type": "списание",
+      "date": {
+        "year": 2023,
+        "month": 8
+      },
+      "amount": 1000
+    },
+    {
+      "account": "8888 0000 8888 0000",
+      "type": "зачисление",
+      "date": {
+        "year": 2023,
+        "month": 7
+      },
+      "amount": 10000
+    },
+    {
+      "account": "8888 0000 8888 0000",
+      "type": "списание",
+      "date": {
+        "year": 2020,
+        "month": 4
+      },
+      "amount": 4000
+    },
+    {
+      "account": "8888 0000 8888 0000",
+      "type": "зачисление",
+      "date": {
+        "year": 2024,
+        "month": 9
+      },
+      "amount": 200
+    },
+    {
+      "account": "7777 0000 7777 0000",
+      "type": "зачисление",
+      "date": {
+        "year": 2343,
+        "month": 4
+      },
+      "amount": 3000
+    },
+    {
+      "account": "8888 0000 8888 0000",
+      "type": "зачисление",
+      "date": {
+        "year": 2024,
+        "month": 3
+      },
+      "amount": 50
+    }
+  ]
+}
